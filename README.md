@@ -1,4 +1,4 @@
 # collectiontrip-demo
 This is my git repo
 <br>
-Author-Ravi dochania
+Author-Ravi dochania(collectiontrip)
