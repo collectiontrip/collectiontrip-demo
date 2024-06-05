@@ -3,5 +3,11 @@ add email or name on git
     git config --global user.email "rdochania92@gmail.com"
 copy remote repo
     git clone "repo url"
-
+add new file
+    touch newFile.txt
+commit
+    git commit -m "Message"
+push
+    git push origin(repo) main(branch)
+    
 
