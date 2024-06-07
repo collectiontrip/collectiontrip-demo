@@ -40,6 +40,21 @@ compare 2 branch
 
 pull data from remote repo
     git pull origin main
+merge 2 branch
+    git merge feature1(branch name)
+stage change
+    git reset index.html(file name)
+stage change for multiple file 
+    git reset
+commited changes(
+    for one commite
+)
+    git reset HEAD~1
+see all git commit 
+    git log
+
+commited changes(for multiple commits)
+git reset --hard commit hash
 
 
     
