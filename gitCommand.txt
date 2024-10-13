@@ -6,6 +6,10 @@ copy remote repo
 add new file
     touch newFile.txt in unix
     echo "" > newfile.py in windows
+delete new file
+    del index.js
+    Remove-Item index.js
+
 commit
     git commit -m "Message"
 push
